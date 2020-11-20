@@ -60,7 +60,7 @@ function main() {
     main();
   }
   else {
-    // Failsafe if user input isn't 1, 2, or 3.
+    // Extremely complex emergency failsafe if user input isn't 1, 2, or 3.
     main();
   }
 }
